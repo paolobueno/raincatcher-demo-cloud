@@ -60,7 +60,17 @@ module.exports = function(grunt) {
             'iidn3tvprs62asdebat5m3eg': 'http://localhost:8002'
           };
           return JSON.stringify(serviceMap);
-        }
+        },
+        FH_APPNAME: "wfm-pl2fwxsnnhv4pvhjpw45f43b-demos-dev",
+        FH_DOMAIN: "wfm",
+        FH_ENV: "demos-dev",
+        FH_INSTANCE: "pl2fwxsnnhv4pvhjpw45f43b",
+        FH_MBAAS_ENV_ACCESS_KEY: "580648616ae7099d2f776a32",
+        FH_MBAAS_HOST: "mbaas.mbaas2.tom.redhatmobile.com",
+        FH_MBAAS_PROTOCOL: "https",
+        FH_WIDGET: "pl2fwxszsstyilzongvhhbpz",
+        FH_APP_API_KEY: "8b238007fbe6008348cf6ae1741f4eddadf3fa5c",
+        WFM_AUTH_GUID: "iidn3tvprs62asdebat5m3eg"
       }
     },
     'node-inspector': {
